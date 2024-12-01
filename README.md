@@ -1,2 +1,2 @@
 # Market-Nuke
-Use is not for nuking test
+education purpose only
